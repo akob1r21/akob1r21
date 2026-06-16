@@ -2,9 +2,8 @@
 
 # Akobir Safarov
 
-**Full-Stack Developer · Tajikistan**
+**Developer · Tajikistan**
 
-I build products that actually get used — from idea to production, solo.
 
 <br/>
 
