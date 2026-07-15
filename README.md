@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:9333ea&height=200&section=header&text=Akobir%20Safarov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%C2%B7%20Tajikistan&descSize=18&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Software+Developer;Building+projects;Always+learning+and+improving+myself" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Software+Developer;Building+projects;Always+learning+and+improving+myself" alt="Typing SVG" />
 
 <br/><br/>
 
