@@ -9,11 +9,11 @@
 [![Website](https://img.shields.io/badge/qobus.tj-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://qobus.tj)
 [![Instagram](https://img.shields.io/badge/@akobir._.s-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/akobir._.s)
 [![Email](https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:akobirsafarzoda@gmail.com)
-[![Followers](https://img.shields.io/github/followers/akob1r21?style=for-the-badge&logo=github&color=39D353&labelColor=0D1117)](https://github.com/akob1r21?tab=followers)
+[![Followers](https://img.shields.io/github/followers/akob1r21?style=for-the-badge&logo=github&color=39D353&labelColor=0D1117)](https://github.com/akobir-s?tab=followers)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=akob1r21&hide_border=true&border_radius=16&background=45,000000,0D1117,161B22&ring=39D353&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=39D353&sideLabels=8B949E&dates=6E7681&stroke=30363D&card_width=600" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=akobir-s&hide_border=true&border_radius=16&background=45,000000,0D1117,161B22&ring=39D353&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=39D353&sideLabels=8B949E&dates=6E7681&stroke=30363D&card_width=600" alt="GitHub Streak" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&height=120&section=footer" />
 
