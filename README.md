@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/qobus.tj-0D1117?style=for-the-badge&logo=vercel&logoColor=white)](https://qobus.tj)
 [![Instagram](https://img.shields.io/badge/@akobir._.s-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/akobir._.s)
 [![Email](https://img.shields.io/badge/email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:akobirsafarzoda@gmail.com)
-[![Followers](https://img.shields.io/github/followers/akob1r21?style=for-the-badge&logo=github&color=39D353&labelColor=0D1117)](https://github.com/akobir-s?tab=followers)
+[![Followers](https://img.shields.io/github/followers/akobir-s?style=for-the-badge&logo=github&color=39D353&labelColor=0D1117)](https://github.com/akobir-s?tab=followers)
 
 <br/><br/>
 
